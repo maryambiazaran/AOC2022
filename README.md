@@ -1,6 +1,6 @@
-# AOC 2021
+# AOC 2022
 
-Having fun with this year's [Advent of Code](https://adventofcode.com/2021).
+Having fun with this year's [Advent of Code](https://adventofcode.com/2022).
 
 I am using Python and Jupyter Notebook for this.
 
